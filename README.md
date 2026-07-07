@@ -1,5 +1,22 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+💫 **About Me**
+
+🔭 **I’m currently working on:**
+Building scalable Full-Stack and AI-powered applications with the MERN stack, Node.js, PostgreSQL, and modern AI technologies.<br><br>
+
+👯 **I’m looking to collaborate on:**
+Open-source projects, AI agents, developer tools, backend systems, and SaaS products.<br><br>
+
+🤝 **I’m looking for help with:**
+Distributed systems, cloud architecture, and building software that scales to millions of users.<br><br>
+
+🌱 **I’m currently learning:**
+System Design, AI Agents, RAG, Docker, Redis, Kubernetes, and Cloud Infrastructure.<br><br>
+
+💬 **Ask me about:**
+JavaScript, React, Node.js, Express.js, MongoDB, PostgreSQL, REST APIs, Authentication, and Backend Development.<br><br>
+
+⚡ **Fun fact:**
+*"The city has Spider-Man. The internet will have my code."* 🕷️
 
 
 ## 🌐 Socials:
